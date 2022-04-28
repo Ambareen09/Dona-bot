@@ -1,0 +1,10 @@
+ID,name,prerequisites
+CSIT515,Software Engineering,"[]"
+CSIT545,Computer Architecture,"[]"
+CSIT571,Computer Algorithms and Analysis,"[]"
+CSIT696,Research Methods in Computing,"[]"
+CSIT535,HCI,"[CSIT515,CSIT545]"
+CSIT537,Web Dev,"[]"
+CSIT540,Computer Networks,"[]"
+CSIT547,OS,"[]"
+
